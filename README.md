@@ -4,6 +4,6 @@
 npm start
 `
 
-# Deploy the website
+## Deploy the website on Netlify (compte : <adapool_charles@protonmail.com>)
 
-git push on main
+git push origin master
