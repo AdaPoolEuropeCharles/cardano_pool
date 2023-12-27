@@ -1,4 +1,4 @@
-interface PoolData {
+export interface PoolData {
   message: string;
   created: string;
   data: {
@@ -8,7 +8,7 @@ interface PoolData {
     db_ticker: string;
     db_name: string;
     db_url: string;
-    total_stake: number;
+    stake_active: number;
     rewards_epoch: number;
     tax_ratio: number;
     tax_fix: number;
@@ -40,6 +40,7 @@ interface PoolData {
     stake_x_deleg: number;
     db_description: string;
     owners: number;
+    updated: string;
   };
-  updated: string;
+
 }

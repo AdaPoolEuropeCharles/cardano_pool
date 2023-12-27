@@ -1,2 +1,2 @@
-export const API_Url = `https://js.adapools.org/pools/3a0903012e156471ee2cfdf5af79902cd5108d891f90ec9cfbbce9ce/summary.json`;
+export const API_Url = `https://js.cexplorer.io/api-static/pool/pool18gysxqfwz4j8rm3vlh6677vs9n23prvfr7gwe88mhn5uudgx9ng.json`;
 export const TIMEOUT_SECONDS = 10;
