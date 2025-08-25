@@ -17,11 +17,11 @@ export const frenchContent: Content = {
     s2: {
       p1: 'Nous sommes motivés à démocratiser l’usage des crypto-monnaies.',
       p2: ' infrastructure de haute disponibilité',
-      p3: ' avec les frais les plus bas possible',
+      p3: ' avec des frais limités',
       p4: ' ouvert au plus grand nombre',
       p5: ' serveurs dédiées et sécurisées',
       p6: 'Notre pool de staking Cardano basé en Europe se consacre au renforcement et à la décentralisation du réseau Cardano.<br> Nous offrons un staking de haute disponibilité, fiable et sécurisé basé sur deux noeuds relais et un noeud producteur en centres-serveurs de qualité professionnelle. Notre objectif est de créer une bonne expérience de participation.',
-      p7: "	Nous mettons un fort accent sur la performance et la sécurité de notre infrastructure de pool. Nous souhaitons également permettre au plus grand nombre d’entre vous de participer à l’aventure crypto. C’est pour cela qu’à l’inverse de beaucoup d’autres pools, nous n’appliquons ici pas de frais variables (0 %).",
+      p7: "	Nous mettons un fort accent sur la performance et la sécurité de notre infrastructure de pool. Nous souhaitons également permettre au plus grand nombre d’entre vous de participer à l’aventure crypto.",
       p8: 'En stakant vos ADA dans notre pool vous participez au fonctionnement du réseau Cardano.',   
     p9:'	✔&nbsp;Vos ADA ne sont jamais bloqués, vous pouvez les transférer n’importe quand et sans pénalité&nbsp;;<br><br>✔&nbsp;Vos ADA ne vous quittent jamais, vous ne pouvez pas les perdre par la méthode du “staking”&nbsp;;<br><br>✔&nbsp;Vos récompenses sont automatiquement réinvesties, tous les 5 jours vous recevez votre part des gains qui sont automatiquement stackés&nbsp;;<br><br>✔&nbsp;Vous pouvez commencer à stacker vos ADA même si vous en avez très peu.',
     },

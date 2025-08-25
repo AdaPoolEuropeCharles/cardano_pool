@@ -16,11 +16,11 @@ export const englishContent: Content = {
     s2: {
       p1: 'We are motivated to democratize the use of crypto-currencies.',
       p2: ' high availability infrastructure',
-      p3: ' with the lowest possible fees',
+      p3: ' with limited fees',
       p4: ' open to the largest audience possible',
       p5: ' dedicated and secure servers',
       p6: 'Our Europe-based Cardano staking pool is dedicated to strengthening and decentralizing the Cardano network. \n We offer high-availability, reliable and secure staking, based on two relay nodes and one producer node in enterprise-class server centers. Our goal is to create a good participant experience.',
-      p7: "We put a strong focus on the performance and security of our pool infrastructure. We would like to allow as many people as possible to participate in the crypto adventure. That's why, unlike many other pools, we don't charge variable fees (0%).",
+      p7: "We put a strong focus on the performance and security of our pool infrastructure. We would like to allow as many people as possible to participate in the crypto adventure.",
       p8: 'By staking your ADAs in our pool, you participate in the operation of the Cardano network.',
       p9: "✔&nbsp;Your ADAs are never blocked, you can transfer them anytime and without penalty&nbsp;;<br><br> ✔&nbsp;Your ADAs are always in your wallet, they stay with you. You can't lose them by the 'staking' method &nbsp;;<br><br> ✔&nbsp;Your rewards are automatically reinvested. Every 5 days you receive your share of the winnings which are automatically stacked&nbsp;;<br><br> ✔&nbsp;You can start stacking your ADA, even if you have very few.",
     },
