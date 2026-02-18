@@ -73,6 +73,22 @@ document.querySelector('#lang-fr')!!.addEventListener('click', () => {
   i18next.changeLanguage('fr');
 });
 
+document.querySelector('#lang-es')!!.addEventListener('click', () => {
+  i18next.changeLanguage('es');
+});
+
+document.querySelector('#lang-de')!!.addEventListener('click', () => {
+  i18next.changeLanguage('de');
+});
+
+document.querySelector('#lang-it')!!.addEventListener('click', () => {
+  i18next.changeLanguage('it');
+});
+
+document.querySelector('#lang-pt')!!.addEventListener('click', () => {
+  i18next.changeLanguage('pt');
+});
+
 document.querySelector('#lang-pl')!!.addEventListener('click', () => {
   i18next.changeLanguage('pl');
 });
