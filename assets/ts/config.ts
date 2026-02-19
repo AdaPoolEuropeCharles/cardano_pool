@@ -1,2 +1,3 @@
-export const API_Url = `https://js.cexplorer.io/api-static/pool/pool18gysxqfwz4j8rm3vlh6677vs9n23prvfr7gwe88mhn5uudgx9ng.json`;
+export const API_Url = `https://info.adapool-europe.com/api/pool-params`;
+export const API_AUTH = 'admin:sqlmk854KjF986kljsdQLK656_HHJD';
 export const TIMEOUT_SECONDS = 10;
