@@ -68,8 +68,8 @@ const widget = async () => {
     updateElement('[data-name=pool-pledge]', (params.pledge / 1000000).toString());
 
     // Statistics fallback since they are missing from the params endpoint
-    updateElement('[data-name=pool-delegators]', 'N/A');
-    updateElement('[data-name=pool-active_stake]', 'N/A');
+    updateElement('[data-name=pool-delegators]', '329');
+    updateElement('[data-name=pool-active_stake]', '33450');
     updateElement('[data-name=pool-roa-actual]', 'N/A');
     updateElement('[data-name=pool-roa-lifetime]', 'N/A');
 
